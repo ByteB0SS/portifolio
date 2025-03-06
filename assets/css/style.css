@@ -425,41 +425,7 @@ footer a{
     text-decoration: underline;
 }
 
-.menu-mobile{
-    background-color: var(--fundo-carregado);
-    margin: 0;
-    padding: 0;
-    width: 100%;
-    top: 0;
-    left: 0;
-    position: fixed;
-    height: 100vh;
-    overflow: auto;
 
-}
-
-.menu-mobile ul {
-    padding: 3rem;
-    justify-content: end;
-    align-items: end;
-
-}
-
-.menu-mobile ul li{
-    font-size: 2rem;
-    list-style: none;
-
-}
-.menu-mobile ul li a{
-    color: white;
-}
-
-.menu-mobile ul li:hover{
-    background-color: var(--fundo-verde);
-    justify-content: end;
-    align-items: end;
-    width: 100%;
-}
 
 
 /* responsivo pra mobile */
